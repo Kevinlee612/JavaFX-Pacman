@@ -1,4 +1,5 @@
-##In the respective order, these classes are able to: <br>
+##
+In the respective order, these classes are able to: <br>
 **Board Class:**<br>
 -Instantiates a board object with grid[][] and visited[][] that keep track of PacCharacter movements.<br>
 -Has methods to keep track of score and when game ends<br><br>
