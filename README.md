@@ -1,4 +1,3 @@
-# Programming Assignment 8 <br>
 In the respective order, these classes are able to: <br><br>
 **Board Class:**<br>
 -Instantiates a board object with grid[][] and visited[][] that keep track of PacCharacter movements.<br>
